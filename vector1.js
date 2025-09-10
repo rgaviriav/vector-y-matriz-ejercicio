@@ -10,5 +10,5 @@ for (let i = 0; i < vertorEnteros.length; i++) {
 }
 
 console.log(vertorEnteros);
-// refrescar la pestaña sin cerrar la consolo para que aparezca el vector.
+// refrescar la pestaña sin cerrar la consolo para que aparezca el vector
 
