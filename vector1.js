@@ -9,7 +9,7 @@ for (let i = 0; i < vertorEnteros.length; i++) {
     vertorEnteros[i] = Math.floor(Math.random() * 100);
 }
 
-console.log("---- vector de 10 enteros----")
+console.log("---- vector de 10 enteros aleatorios----")
 console.log(vertorEnteros);
 // refrescar la pestaña sin cerrar la consolo para que aparezca el vector
 
